@@ -25,7 +25,7 @@ a:hover {
   font-size: 36px;
   font-type: Lato;
 }
-.question-size {
+question-size {
   font-size: 24px;
-  font-type: lucida sans unicode;
-  
+  font-type: Verdana, sans-serif;
+}
